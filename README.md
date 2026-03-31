@@ -1,0 +1,2 @@
+# FluxRust
+FluxRust server data
